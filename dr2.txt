@@ -1,0 +1,35 @@
+0 006E207C 60000000
+0 006E0864 D1A3002C
+
+max money on gain
+0 33A01150 7FFFF0FF
+
+
+health?
+0x33a01140
+
+current level
+0x33a01100
+
+wep strength
+0 003790EC 60000000
+0 00128200 60000000
+0 0035B5A4 D1A300F4
+speedhack
+0x33A01114 4x000000 or higher change "x" to whatever. 1-F
+
+zombies killed
+0x33a01118
+
+pp? instant lvl 50 one kill
+0x33A01108 7Fff0000
+0x33A01104 7Fff0000
+Multiplayer name change
+0x3381A070 (red?)
+0x3381a081 (blue?)
+0x3381a092 (green?)
+0x3381a0c0 (yellow?)
+slicecycles
+0 39EB0A94 000F4240  1million pts
+TIR points single player
+0x39EB2F44
